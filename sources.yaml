@@ -1,0 +1,8 @@
+year: 27
+items:
+  - company: サンプル株式会社
+    url: https://example.com/recruit
+    hints: ["ES", "エントリー", "締切"]
+  - company: 本田技研工業(株)【Honda】
+    url: https://www.honda.co.jp/recruit/newgraduate/
+    hints: ["ES", "締切"]
